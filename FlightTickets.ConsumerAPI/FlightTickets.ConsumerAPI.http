@@ -1,0 +1,6 @@
+@FlightTickets.ConsumerAPI_HostAddress = http://localhost:5096
+
+GET {{FlightTickets.ConsumerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
